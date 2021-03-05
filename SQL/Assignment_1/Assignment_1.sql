@@ -1,6 +1,6 @@
 DROP DATABASE IF EXISTS FresherManagement;
 CREATE DATABASE FresherManagement;
-USE Fresher_management;
+USE FresherManagement;
 
 DROP TABLE IF EXISTS Trainee;
 CREATE TABLE Trainee(
